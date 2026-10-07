@@ -1,0 +1,9 @@
+# This file defines the code owners for this repository.
+# Each line is a file pattern followed by one or more owners.
+# Order matters: the last matching pattern takes precedence.
+
+# Default owners for everything in the repo
+*       @alvaropg @egh352
+
+# GitHub Actions & workflows
+/.github/ @Telefonica/low-level-iptv-admin
